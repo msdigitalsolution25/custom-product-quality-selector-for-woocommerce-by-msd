@@ -1,6 +1,6 @@
 # Custom Product Quality Selector For WooCommerce by MSD
 
-![Plugin Version](https://img.shields.io/badge/version-1.0.1-blue.svg)
+![Plugin Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![License](https://img.shields.io/badge/license-GPL%20v2-blue.svg)
 ![WordPress Compatible](https://img.shields.io/badge/WordPress-6.7%20%7C%20Latest-green.svg)
 ![WooCommerce Compatible](https://img.shields.io/badge/WooCommerce-7.0%20%7C%20Latest-green.svg)
